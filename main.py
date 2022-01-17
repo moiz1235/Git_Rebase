@@ -1,1 +1,2 @@
-print(mastercommit1)
+print("mastercommit1")
+print("mastercommit2")
